@@ -1,0 +1,9 @@
+attendance.db
+attendance.db-shm
+attendance.db-wal
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
